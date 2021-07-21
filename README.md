@@ -80,15 +80,15 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="48" height="48"/>
+        <img src="./logo/mint.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Javascript
+      <br>Mint
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="48" height="48"/>
+      <a href="#macropower-tech">
+        <img src="./logo/debian.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Java
+      <br>Debian
     </td>
   </tr>
 </table>
