@@ -1,75 +1,76 @@
 <img src="./logo/jonathan.png"/>
 <p>
 
+ <div style="text-align:center;">
  <table>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./logo/ether.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Ethereum
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./logo/solidity.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Solidity
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./logo/chainlink.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Chainlink
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./logo/java.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./logo/javascript.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./logo/html.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./logo/css.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>CSS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech">
+        <img src="./logo/cpp.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./logo/chainlink.png" width="48" height="48" alt="TypeScript" />
+        <img src="./logo/latex.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Chainlink
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./logo/chainlink.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Chainlink
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
+      <br>LaTeX
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="./logo/eclipse.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Debian
+      <br>Eclipse
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+        <img src="./logo/vc.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>RHEL
+      <br>Visual Code
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -91,6 +92,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 **Joncarre/Joncarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
