@@ -4,7 +4,7 @@
 
 > Tools, languages, and other things that I like to work with.
 
- <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
+<table align="center" style="margin: 0px auto;">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
