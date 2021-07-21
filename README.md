@@ -1,4 +1,4 @@
-<img src="./logo/jona.png"/>
+<img src="./logo/jonathan.png"/>
 <p>
 
  <table>
