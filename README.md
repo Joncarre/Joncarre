@@ -1,8 +1,6 @@
 <img src="./logo/jonathan.png"/>
-<p>
 
- <div style="text-align:center;">
- <table>
+ <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -92,7 +90,6 @@
     </td>
   </tr>
 </table>
-</div>
 
 **Joncarre/Joncarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
