@@ -7,9 +7,9 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./logo/java.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Chainlink
+      <br>C++
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -81,15 +81,15 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="48" height="48"/>
       </a>
-      <br>MySQL
+      <br>Javascript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="48" height="48"/>
       </a>
-      <br>Grafana
+      <br>Java
     </td>
   </tr>
 </table>
