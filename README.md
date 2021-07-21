@@ -1,5 +1,9 @@
 <img src="./logo/jonathan.png"/>
 
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
  <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
     <td align="center" width="96">
@@ -92,20 +96,6 @@
 </table>
 
 <h1 align="center"></h1>
+<p align="center">
 <a href="https://www.linkedin.com/in/jonathancarrero/"><img align="center" src="./logo/link2.PNG"/></a> &nbsp;&nbsp;&nbsp; <a href="mailto:jonathan.carrero.aranda@gmail.com"><img align="center" src="./logo/link3.PNG"/></a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/Joncarre"><img align="center" src="./logo/link1.PNG"/></a>
-
-<br>
-      
-**Joncarre/Joncarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+</p>
