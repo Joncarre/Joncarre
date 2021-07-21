@@ -91,6 +91,9 @@
   </tr>
 </table>
 
+<h1 align="center"></h1>
+<img src="./logo/link2.ng" href="http://www.lostejos.com" alt="Los Tejos" /></a>
+
 **Joncarre/Joncarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
