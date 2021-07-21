@@ -7,33 +7,21 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="./logo/java.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>C#&nbsp;(Core)
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
+      <br>Chainlink
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./logo/chainlink.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>TypeScript
+      <br>Chainlink
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./logo/chainlink.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Chainlink
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -102,18 +90,6 @@
         <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
       </a>
       <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>Thanos
     </td>
   </tr>
 </table>
