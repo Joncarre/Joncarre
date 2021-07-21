@@ -74,9 +74,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+        <img src="./logo/node.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Powershell
+      <br>Node JS
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
