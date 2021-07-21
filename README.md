@@ -92,8 +92,10 @@
 </table>
 
 <h1 align="center"></h1>
-<img src="./logo/link2.ng" href="http://www.lostejos.com" alt="Los Tejos" /></a>
+<a href="https://www.linkedin.com/in/jonathancarrero/"><img align="center" src="./logo/link2.PNG"/></a> &nbsp;&nbsp;&nbsp; <a href="mailto:jonathan.carrero.aranda@gmail.com"><img align="center" src="./logo/link3.PNG"/></a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/Joncarre"><img align="center" src="./logo/link1.PNG"/></a>
 
+<br>
+      
 **Joncarre/Joncarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
