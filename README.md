@@ -76,9 +76,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./logo/node.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./logo/kali.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Node JS
+      <br>Kali
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
