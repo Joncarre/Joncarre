@@ -1,4 +1,4 @@
-<img src="./logo/jonathan.png"/>
+<img src="./logo/joncarre"/>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
