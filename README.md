@@ -2,8 +2,7 @@
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-[![Joncarre's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true&theme=noctis_minimus#gh-dark-mode-only)](https://github.com/joncarre/github-readme-stats#gh-dark-mode-only)
-[![Joncarre's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/joncarre/github-readme-stats#gh-light-mode-only)
+![joncarre's GitHub stats](https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true&theme=transparent)
 
 > Tools, languages, and other things that I like to work with.
 
