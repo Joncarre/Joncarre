@@ -1,7 +1,7 @@
 <img src="./logo/joncarre.png"/>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
-
+  <a href="https://github.com/anuraghazra/github-readme-stats">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true&theme=noctis_minimus"
@@ -11,10 +11,9 @@
     srcset="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true&theme=vue"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true" />
-    </a>
 </picture>
+    </a>
 
 <picture>
   <source
