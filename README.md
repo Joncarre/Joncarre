@@ -2,7 +2,7 @@
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-<a href="[ttps://github.com/joncarre/github-readme-stats](https://github.com/Joncarre?tab=repositories)">
+<a href="[https://github.com/joncarre/github-readme-stats](https://github.com/Joncarre?tab=repositories)">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true&theme=noctis_minimus"
@@ -16,7 +16,7 @@
   </picture>
 </a>
 
-<a href="[ttps://github.com/anuraghazra/github-readme-stats](https://github.com/Joncarre?tab=repositories)">
+<a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/Joncarre?tab=repositories)">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&layout=compact&show_icons=true&theme=noctis_minimus"
