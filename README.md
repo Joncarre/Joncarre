@@ -1,3 +1,5 @@
+![Descripción de la imagen](https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/preview.png)
+
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
