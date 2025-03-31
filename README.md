@@ -34,7 +34,7 @@
 <br />
 <br />
 
-> Tools, languages, and other things that I like to work with.
+> 💻 Tools, languages, and other things that I like to work with.
 >
 <div align="center">
 <img alt="Oracle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />&nbsp;&nbsp;
