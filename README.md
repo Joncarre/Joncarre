@@ -16,7 +16,7 @@
         srcset="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true&theme=vue"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-        <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true" />
+        <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true" />
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -30,7 +30,7 @@
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&layout=compact&show_icons=true&theme=vue"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-        <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&layout=compact" />
+        <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&layout=compact" />
     </picture>
   </a>
 </div>
