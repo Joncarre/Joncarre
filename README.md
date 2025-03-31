@@ -10,7 +10,9 @@
 </p>
 
 
-## 🏄‍♂️ Jonathan Carrero
+---
+
+
 Hey! I'm Jonathan, a Software Engineer who finished his PhD studies in 2023. During these last years I've been always working and studying in different areas like formal methods, project management and cybersecurity. I love situations where you have to think a lot before you find the solution. I hope you enjoy my profile!
 
 <p align="right"><i>Take the world from another point of view.</i> — Richard Feynman</p>
