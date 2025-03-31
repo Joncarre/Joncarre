@@ -6,6 +6,7 @@ Hey! I'm Jonathan, a Software Engineer who finished his PhD studies in 2023. Dur
 
 
 
+
 > 📈 Here you have some stats about my Github profile.
 >
 
