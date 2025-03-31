@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=5FC396&center=true&repeat=false&width=435&lines=Jonathan+Carrero)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=5FC396&center=true&vCenter=true&repeat=false&width=435&lines=+++++++++++++++++Jonathan+Carrero)](https://git.io/typing-svg)
 
 ## 🏄‍♂️ Jonathan Carrero
 Hey! I'm Jonathan, a Software Engineer who finished his PhD studies in 2023. During these last years I've been always working and studying in different areas like formal methods, project management and cybersecurity. I love situations where you have to think a lot before you find the solution. I hope you enjoy my profile!
