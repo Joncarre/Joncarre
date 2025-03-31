@@ -1,6 +1,6 @@
 <img src="./logo/joncarre.png"/>
 
->  Here you have some stats about my Github profile.
+> 😂 Here you have some stats about my Github profile.
 <div align="center">
   <a href="https://github.com/Joncarre?tab=repositories">
     <picture>
