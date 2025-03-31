@@ -26,7 +26,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <a href="https://github.com/joncarre/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
   </a>
 </picture>
 
