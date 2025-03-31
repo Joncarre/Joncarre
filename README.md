@@ -2,7 +2,7 @@
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-![joncarre's GitHub stats](https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true&theme=noctis_theme)
+![joncarre's GitHub stats](https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true&theme=noctis_minimus)
 
 > Tools, languages, and other things that I like to work with.
 
