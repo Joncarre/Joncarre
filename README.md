@@ -1,4 +1,7 @@
-![Descripción de la imagen](https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/preview.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/preview.png" width="200">
+</p>
+
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
