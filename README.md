@@ -2,14 +2,9 @@
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-![joncarre's GitHub stats](https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true&theme=noctis_minimus)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&layout=donut)](https://github.com/joncarre/github-readme-stats)
-
-
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true&theme=noctis_minimus"
     media="(prefers-color-scheme: dark)"
   />
   <source
