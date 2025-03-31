@@ -1,6 +1,6 @@
 <img src="./logo/joncarre.png"/>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+>  Here you have some stats about my Github profile.
 <div align="center">
   <a href="https://github.com/Joncarre?tab=repositories">
     <picture>
