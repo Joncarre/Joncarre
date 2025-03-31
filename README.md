@@ -1,6 +1,7 @@
 <img src="./logo/joncarre.png"/>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source
@@ -15,18 +16,19 @@
   </picture>
 </a>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&layout=compact&show_icons=true&theme=noctis_minimus"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-</picture>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&layout=compact&show_icons=true&theme=noctis_minimus"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  </picture>
+</a>
 
 ![Top Langs]()
 
