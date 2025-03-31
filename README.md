@@ -25,7 +25,7 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&layout=compact&show_icons=true&theme=vue"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/joncarre/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true" />
   </a>
 </picture>
