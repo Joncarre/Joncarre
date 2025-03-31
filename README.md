@@ -14,11 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true" />
 </picture>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&layout=compact&show_icons=true&theme=noctis_minimus)
 
 > Tools, languages, and other things that I like to work with.
 
