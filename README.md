@@ -4,6 +4,8 @@
 
 ![joncarre's GitHub stats](https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true&theme=noctis_minimus)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&layout=donut)](https://github.com/joncarre/github-readme-stats)
+
 > Tools, languages, and other things that I like to work with.
 
 <table align="center" style="margin: 0px auto;">
