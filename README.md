@@ -2,7 +2,7 @@
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-<a href="[https://github.com/joncarre/github-readme-stats](https://github.com/Joncarre?tab=repositories)">
+<a href="https://github.com/Joncarre?tab=repositories">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true&theme=noctis_minimus"
