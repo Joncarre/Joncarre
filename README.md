@@ -22,7 +22,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&layout=compact&show_icons=true&theme=vue"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <a href="https://github.com/joncarre/convoychat">
@@ -30,6 +30,8 @@
   </a>
 </picture>
 
+
+![Top Langs]()
 
 > Tools, languages, and other things that I like to work with.
 
