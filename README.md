@@ -11,7 +11,9 @@
     srcset="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true&theme=vue"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true" />
+    </a>
 </picture>
 
 <picture>
