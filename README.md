@@ -2,6 +2,8 @@
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joncarre)](https://github.com/joncarre/github-readme-stats)
+
 > Tools, languages, and other things that I like to work with.
 
 <table align="center" style="margin: 0px auto;">
