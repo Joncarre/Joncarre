@@ -1,7 +1,6 @@
 <img src="./logo/joncarre.png"/>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
-
 <div align="center">
   <a href="https://github.com/Joncarre?tab=repositories">
     <picture>
@@ -16,6 +15,7 @@
         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true" />
     </picture>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Joncarre?tab=repositories">
     <picture>
       <source
