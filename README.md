@@ -14,7 +14,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&layout=compact&show_icons=true&theme=noctis_minimus)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&layout=compact&show_icons=true&theme=noctis_minimus"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&layout=compact&show_icons=true&theme=vue"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true" />
+</picture>
+
 
 > Tools, languages, and other things that I like to work with.
 
