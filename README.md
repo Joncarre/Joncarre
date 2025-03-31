@@ -16,7 +16,7 @@
   </picture>
 </a>
 
-<a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/Joncarre?tab=repositories)">
+<a href="https://github.com/Joncarre?tab=repositories">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&layout=compact&show_icons=true&theme=noctis_minimus"
