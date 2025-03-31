@@ -11,7 +11,10 @@
     srcset="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true&theme=vue"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true" />
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true" />
+  </a>
+
 </picture>
 
 <picture>
