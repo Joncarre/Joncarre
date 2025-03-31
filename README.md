@@ -20,7 +20,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&layout=donut&show_icons=true&theme=vue"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&layout=demo&show_icons=true&theme=vue"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true" />
