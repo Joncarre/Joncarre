@@ -1,7 +1,9 @@
 ## 🏄‍♂️ Jonathan Carrero
 <br />
 
+
 > 📈 Here you have some stats about my Github profile.
+> 
 <div align="center">
   <a href="https://github.com/Joncarre?tab=repositories">
     <picture>
@@ -57,11 +59,5 @@
   </div>
 <br />
 
-
-
-
-
-<h1 align="center"></h1>
-<p align="center">
-<a href="https://www.linkedin.com/in/jonathancarrero/"><img align="center" src="./logo/link2.PNG"/></a> &nbsp;&nbsp;&nbsp; <a href="mailto:jonathan.carrero.aranda@gmail.com"><img align="center" src="./logo/link3.PNG"/></a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/Joncarre"><img align="center" src="./logo/link1.PNG"/></a>
-</p>
+> 🧑‍💼 You can take a look to know more about me!
+> 
