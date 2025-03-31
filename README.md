@@ -4,7 +4,7 @@ Hey! I'm Jonathan, a Software Engineer who finished his PhD studies in 2023. Dur
 > *Take the world from another point of view.*  
 > — Richard Feynman
 
-
+<p align="right">text</p>
 
 
 > 📈 Here you have some stats about my Github profile.
