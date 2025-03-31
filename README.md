@@ -1,4 +1,4 @@
-# 🏄‍♂️ Jonathan Carrero
+## 🏄‍♂️ Jonathan Carrero
 
 > 📈 Here you have some stats about my Github profile.
 <div align="center">
