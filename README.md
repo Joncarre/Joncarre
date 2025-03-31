@@ -60,5 +60,5 @@
   </div>
 <br />
 
-> 🧑‍💼 You can take a look to know more about me!
+> 🚀 You can take a look to know more about me!
 > 
