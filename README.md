@@ -30,7 +30,6 @@
   </picture>
 </a>
 
-![Top Langs]()
 
 > Tools, languages, and other things that I like to work with.
 
