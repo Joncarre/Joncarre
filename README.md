@@ -31,9 +31,11 @@
   </a>
 </div>
 <br />
+<br />
 
 > Tools, languages, and other things that I like to work with.
->
+<br />
+
 > <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -53,96 +55,7 @@
 
 
 
-<table align="center" style="margin: 0px auto;">
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./logo/ether.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Ethereum
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./logo/solidity.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Solidity
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./logo/chainlink.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Chainlink
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./logo/java.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./logo/javascript.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./logo/html.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./logo/css.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>CSS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech">
-        <img src="./logo/cpp.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./logo/latex.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>LaTeX
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./logo/eclipse.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Eclipse
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./logo/vc.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Visual Code
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./logo/kali.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Kali
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./logo/mint.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Mint
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./logo/debian.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Debian
-    </td>
-  </tr>
-</table>
+
 
 <h1 align="center"></h1>
 <p align="center">
