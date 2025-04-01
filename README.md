@@ -79,7 +79,7 @@ Hey! I'm Jonathan, a Software Engineer who finished his PhD studies in 2023. Dur
 > 🚀 You can take a look to know more about me!
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathancarrero">
-    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/linkedin" width="32"/>
+    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/linkedin.svg" width="32"/>
   </a>
 </p>
 
