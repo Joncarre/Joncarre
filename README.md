@@ -1,7 +1,7 @@
+<!-- Presentation section -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/preview.png" width="200">
 </p>
-
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -9,15 +9,14 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=PhD.%20Software%20Engineer;Formal%20methods%20and%20cybersecurity;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-
 ---
 
-
+<!-- Bio section -->
 Hey! I'm Jonathan, a Software Engineer who finished his PhD studies in 2023. During these last years I've been always working and studying in different areas like formal methods, project management and cybersecurity. I love situations where you have to think a lot before you find the solution. I hope you enjoy my profile!
 
 <p align="right"><i>Take the world from another point of view.</i> — Richard Feynman</p>
 
-
+<!-- Stats section -->
 > 📈 Here you have some stats about my Github profile.
 >
 
@@ -53,6 +52,7 @@ Hey! I'm Jonathan, a Software Engineer who finished his PhD studies in 2023. Dur
 <br />
 <br />
 
+<!-- Tools section -->
 > 💻 Tools, languages, and other things that I like to work with.
 >
 <div align="center">
@@ -76,10 +76,32 @@ Hey! I'm Jonathan, a Software Engineer who finished his PhD studies in 2023. Dur
   </div>
 <br />
 
+<!-- Social media section -->
 > 🚀 You can take a look to know more about me!
+> 
 <p align="center">
+  <a href="https://github.com/Joncarre">
+    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/web.svg" width="32"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/jonathancarrero">
     <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/linkedin.svg" width="32"/>
+  </a>
+
+  <a href="https://scholar.google.cz/citations?user=TdwutvkAAAAJ&hl=en">
+    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/scholar.svg" width="32"/>
+  </a>
+
+  <a href="https://orcid.org/0000-0003-3647-0226">
+    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/orcid.svg" width="32"/>
+  </a>
+
+  <a href="https://github.com/Joncarre">
+    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/github.svg" width="32"/>
+  </a>
+
+  <a href="mailto:jonathan.carrero.aranda@gmail.com">
+    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/gmail.svg" width="32"/>
   </a>
 </p>
 
