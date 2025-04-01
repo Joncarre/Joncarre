@@ -77,4 +77,7 @@ Hey! I'm Jonathan, a Software Engineer who finished his PhD studies in 2023. Dur
 <br />
 
 > 🚀 You can take a look to know more about me!
-> 
+> <p align="center">
+  <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/stadia.svg" width="32"/>
+</p>
+
