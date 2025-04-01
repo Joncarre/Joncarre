@@ -81,7 +81,7 @@ Hey! I'm Jonathan, a Software Engineer who finished his PhD studies in 2023. Dur
 > 
 <p align="center">
   <a href="https://github.com/Joncarre">
-    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/web.svg" width="32"/>
+    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/web.svg" width="36"/>
   </a>
 &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jonathancarrero">
