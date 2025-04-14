@@ -89,13 +89,13 @@ Hey! I'm Jonathan, a Software Engineer who finished his PhD studies in 2023. Dur
   </a>
 &nbsp;&nbsp;&nbsp;
   <a href="https://scholar.google.cz/citations?user=TdwutvkAAAAJ&hl=en">
-    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/scholar.svg" width="24"/>
+    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/scholar.svg" width="32"/>
   </a>
 &nbsp;&nbsp;&nbsp;
   <a href="https://orcid.org/0000-0003-3647-0226">
     <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/orcid.svg" width="32"/>
   </a>
-&nbsp;&nbsp;&nbsp;
+
   <a href="https://github.com/Joncarre">
     <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/github.svg" width="32"/>
   </a>
