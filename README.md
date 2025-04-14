@@ -66,7 +66,7 @@ Hey! I'm Jonathan, a Software Engineer who finished his PhD studies in 2023. Dur
 <img alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;&nbsp;
 <img alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
 <img alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />&nbsp;&nbsp;
-<img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;&nbsp;
+<img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;&nbsp;
 <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />&nbsp;&nbsp;
 <img alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;&nbsp;
 <img alt="Astro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg"/>&nbsp;&nbsp;
@@ -89,7 +89,7 @@ Hey! I'm Jonathan, a Software Engineer who finished his PhD studies in 2023. Dur
   </a>
 &nbsp;&nbsp;&nbsp;
   <a href="https://scholar.google.cz/citations?user=TdwutvkAAAAJ&hl=en">
-    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/scholar.svg" width="32"/>
+    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/scholar.svg" width="24"/>
   </a>
 &nbsp;&nbsp;&nbsp;
   <a href="https://orcid.org/0000-0003-3647-0226">
