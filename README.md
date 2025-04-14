@@ -80,26 +80,16 @@ Hey! I'm Jonathan, a Software Engineer who finished his PhD studies in 2023. Dur
 > 🚀 You can take a look to know more about me!
 > 
 <p align="center">
-  <a href="https://github.com/Joncarre">
-    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/web.svg" width="32"/>
-  </a>
+  <a href="https://github.com/Joncarre"><img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/web.svg" width="32"/></a>
 &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jonathancarrero">
-    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/linkedin.svg" width="32"/>
-  </a>
+  <a href="https://www.linkedin.com/in/jonathancarrero"><img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/linkedin.svg" width="32"/></a>
 &nbsp;&nbsp;&nbsp;
-  <a href="https://scholar.google.cz/citations?user=TdwutvkAAAAJ&hl=en">
-    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/scholar.svg" width="32"/>
-  </a>
+  <a href="https://scholar.google.cz/citations?user=TdwutvkAAAAJ&hl=en"><img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/scholar.svg" width="32"/></a>
 &nbsp;&nbsp;&nbsp;
   <a href="https://orcid.org/0000-0003-3647-0226"><img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/orcid.svg" width="32"/></a>
 &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Joncarre">
-    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/github.svg" width="32"/>
-  </a>
+  <a href="https://github.com/Joncarre"><img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/github.svg" width="32"/></a>
 &nbsp;&nbsp;&nbsp;
-  <a href="mailto:jonathan.carrero.aranda@gmail.com">
-    <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/gmail.svg" width="32"/>
-  </a>
+  <a href="mailto:jonathan.carrero.aranda@gmail.com"><img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/gmail.svg" width="32"/></a>
 </p>
 
