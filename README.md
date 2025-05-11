@@ -1,5 +1,13 @@
+<!-- Presentation section -->
 <p align="center">
-  <img src="https://i.ibb.co/tM9v7nR5/image-5.png" alt="Hack The Box">
+  <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/preview.png" width="200">
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=PhD.%20Software%20Engineer;Formal%20methods%20and%20cybersecurity;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  </a>
 </p>
 
 ---
